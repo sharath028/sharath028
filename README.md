@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharath028&label=Profile%20views&color=0e75b6&style=flat" alt="sharath028" /> </p>
 
-- 🌱 I’m currently learning **HTML,CSS,JAVASCRPIT,PYTHON**
+- 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT,PYTHON**
 
 - 👨‍💻 All of my projects are available at [https://balajicaterers.netlify.app/](https://balajicaterers.netlify.app/)
 
@@ -26,4 +26,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharath028&show_icons=true&locale=en" alt="sharath028" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharath028&" alt="sharath028" /></p>
